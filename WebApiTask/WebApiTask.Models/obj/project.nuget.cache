@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q4P4LkeOCZm9WgeUWbwKuZ+vAhxMFjZGsN5pOZJZobR/At4hOd/LqhEq4IciPs8Y99pQpTjVxceTbw1LLmQehA==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\.NET-Core\\WebApiTask\\WebApiTask.Models\\WebApiTask.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sathi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\sathi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

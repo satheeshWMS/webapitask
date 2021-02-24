@@ -1,0 +1,8 @@
+C:\Code\.NET-Core\WebApiTask\WebApiTask.Models\bin\Debug\netcoreapp3.1\WebApiTask.Models.deps.json
+C:\Code\.NET-Core\WebApiTask\WebApiTask.Models\bin\Debug\netcoreapp3.1\WebApiTask.Models.dll
+C:\Code\.NET-Core\WebApiTask\WebApiTask.Models\bin\Debug\netcoreapp3.1\WebApiTask.Models.pdb
+C:\Code\.NET-Core\WebApiTask\WebApiTask.Models\obj\Debug\netcoreapp3.1\WebApiTask.Models.AssemblyInfoInputs.cache
+C:\Code\.NET-Core\WebApiTask\WebApiTask.Models\obj\Debug\netcoreapp3.1\WebApiTask.Models.AssemblyInfo.cs
+C:\Code\.NET-Core\WebApiTask\WebApiTask.Models\obj\Debug\netcoreapp3.1\WebApiTask.Models.csproj.CoreCompileInputs.cache
+C:\Code\.NET-Core\WebApiTask\WebApiTask.Models\obj\Debug\netcoreapp3.1\WebApiTask.Models.dll
+C:\Code\.NET-Core\WebApiTask\WebApiTask.Models\obj\Debug\netcoreapp3.1\WebApiTask.Models.pdb

@@ -1,0 +1,14 @@
+C:\Code\.NET-Core\WebApiTask\WebApiTask.DataAccess\bin\Debug\netcoreapp3.1\WebApiTask.DataAccess.deps.json
+C:\Code\.NET-Core\WebApiTask\WebApiTask.DataAccess\bin\Debug\netcoreapp3.1\WebApiTask.DataAccess.dll
+C:\Code\.NET-Core\WebApiTask\WebApiTask.DataAccess\bin\Debug\netcoreapp3.1\WebApiTask.DataAccess.pdb
+C:\Code\.NET-Core\WebApiTask\WebApiTask.DataAccess\bin\Debug\netcoreapp3.1\WebApiTask.Models.dll
+C:\Code\.NET-Core\WebApiTask\WebApiTask.DataAccess\bin\Debug\netcoreapp3.1\WebApiTask.Utils.dll
+C:\Code\.NET-Core\WebApiTask\WebApiTask.DataAccess\bin\Debug\netcoreapp3.1\WebApiTask.Models.pdb
+C:\Code\.NET-Core\WebApiTask\WebApiTask.DataAccess\bin\Debug\netcoreapp3.1\WebApiTask.Utils.pdb
+C:\Code\.NET-Core\WebApiTask\WebApiTask.DataAccess\obj\Debug\netcoreapp3.1\WebApiTask.DataAccess.csprojAssemblyReference.cache
+C:\Code\.NET-Core\WebApiTask\WebApiTask.DataAccess\obj\Debug\netcoreapp3.1\WebApiTask.DataAccess.AssemblyInfoInputs.cache
+C:\Code\.NET-Core\WebApiTask\WebApiTask.DataAccess\obj\Debug\netcoreapp3.1\WebApiTask.DataAccess.AssemblyInfo.cs
+C:\Code\.NET-Core\WebApiTask\WebApiTask.DataAccess\obj\Debug\netcoreapp3.1\WebApiTask.DataAccess.csproj.CoreCompileInputs.cache
+C:\Code\.NET-Core\WebApiTask\WebApiTask.DataAccess\obj\Debug\netcoreapp3.1\WebApiTask.DataAccess.csproj.CopyComplete
+C:\Code\.NET-Core\WebApiTask\WebApiTask.DataAccess\obj\Debug\netcoreapp3.1\WebApiTask.DataAccess.dll
+C:\Code\.NET-Core\WebApiTask\WebApiTask.DataAccess\obj\Debug\netcoreapp3.1\WebApiTask.DataAccess.pdb

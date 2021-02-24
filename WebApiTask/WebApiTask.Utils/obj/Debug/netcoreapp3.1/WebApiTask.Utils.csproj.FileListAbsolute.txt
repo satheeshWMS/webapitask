@@ -1,0 +1,8 @@
+C:\Code\.NET-Core\WebApiTask\WebApiTask.Utils\bin\Debug\netcoreapp3.1\WebApiTask.Utils.deps.json
+C:\Code\.NET-Core\WebApiTask\WebApiTask.Utils\bin\Debug\netcoreapp3.1\WebApiTask.Utils.dll
+C:\Code\.NET-Core\WebApiTask\WebApiTask.Utils\bin\Debug\netcoreapp3.1\WebApiTask.Utils.pdb
+C:\Code\.NET-Core\WebApiTask\WebApiTask.Utils\obj\Debug\netcoreapp3.1\WebApiTask.Utils.AssemblyInfoInputs.cache
+C:\Code\.NET-Core\WebApiTask\WebApiTask.Utils\obj\Debug\netcoreapp3.1\WebApiTask.Utils.AssemblyInfo.cs
+C:\Code\.NET-Core\WebApiTask\WebApiTask.Utils\obj\Debug\netcoreapp3.1\WebApiTask.Utils.csproj.CoreCompileInputs.cache
+C:\Code\.NET-Core\WebApiTask\WebApiTask.Utils\obj\Debug\netcoreapp3.1\WebApiTask.Utils.dll
+C:\Code\.NET-Core\WebApiTask\WebApiTask.Utils\obj\Debug\netcoreapp3.1\WebApiTask.Utils.pdb
